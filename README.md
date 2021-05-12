@@ -1,2 +1,2 @@
 # fibonacciretracements
-You can reach fibonacci retracements levels on Python.
+You can reach fibonacci retracement levels in Python. Contains levels only.
